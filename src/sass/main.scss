@@ -28,7 +28,7 @@
 
     .diagram-layer {
       position: relative;
-      flex-grow: 1; // flex-grow of 1 causes the node width to stretch right to the end of the .content box
+      flex-grow: 1;
     }
 
     .tray {
